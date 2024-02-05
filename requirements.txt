@@ -1,0 +1,11 @@
+colorama
+pyarrow
+xlrd
+openpyxl
+pandas
+numpy
+matplotlib
+squarify
+calplot
+scikit-learn
+session_info
