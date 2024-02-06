@@ -5,6 +5,7 @@ openpyxl
 pandas
 numpy
 matplotlib
+seaborn
 squarify
 calplot
 scikit-learn
