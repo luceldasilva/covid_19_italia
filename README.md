@@ -35,20 +35,6 @@ Del dataframe de __United Nations__
 | `Population_Density` | Integer | Densidad poblacional del país |
 | `Life_Expectancy` | Float | Esperanza de vida del país |
 
-## Problema de Negocio 🦠
-
-Una entidad gubernamental responsable de la gestión de la salud de Italia (pais seleccionado) enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
-Para ello, se analizan los datos relacionados con el COVID-19 y se presentan insights a través de visualizaciones que respondan a las siguientes preguntas clave:
-
-Preguntas
-
-1. ¿Cómo ha evolucionado el COVID-19 en Alemania en comparación con el impacto observado a nivel mundial?
-
-2. ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de COVID-19 en Alemania a lo largo del tiempo?
-
-3. ¿Cuál es la evolución del índice de letalidad del COVID-19 en el país, comparado con los países con los índices históricos más elevados?
-
-4. Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad en un país?
 
 ## Resultados 📊
 1.- ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?
