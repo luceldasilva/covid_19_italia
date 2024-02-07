@@ -35,7 +35,7 @@ Del dataframe de __United Nations__
 | `Population_Density` | Integer | Densidad poblacional del país |
 | `Life_Expectancy` | Float | Esperanza de vida del país |
 
-## Problema de Negocio 
+## Problema de Negocio 🦠
 
 Una entidad gubernamental responsable de la gestión de la salud de Italia (pais seleccionado) enfrenta el desafío de comprender y analizar la propagación del COVID-19 para tomar decisiones informadas y eficaces en la gestión de la pandemia.
 Para ello, se analizan los datos relacionados con el COVID-19 y se presentan insights a través de visualizaciones que respondan a las siguientes preguntas clave:
@@ -50,7 +50,7 @@ Preguntas
 
 4. Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad en un país?
 
-## Resultados
+## Resultados 📊
 1.- ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?
 ![pregunta1](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p1.png "pregunta1")
 
