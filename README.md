@@ -5,6 +5,7 @@
 > [!NOTE]
 > [![Static Badge](https://img.shields.io/badge/build-Analisis_COVID_19-brightgreen?logo=deepnote&label=Presentación%20ejecutiva%20en%20deepnote.com&color=%23AFEEEE&style=for-the-badge)](https://deepnote.com/@lucel-dasilva/Analisis-COVID-19-56551004-f932-4da5-b5ad-7bb31d32774e)
 
+
 ## Objetivo 👈
 Analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave de __`Ministero della Salute`__, la entidad gubernamental responsable de la gestión de la salud en Italia
 
