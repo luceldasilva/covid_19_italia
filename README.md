@@ -52,14 +52,14 @@ Los datos indican que en el año 2022 es donde se reportan una mayor cantidad de
 3.- ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?
 ![pregunta3](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p3.png "pregunta3")
 
-Italia llega a tener su pico de letalidad fue de 12.47%, para septiembre del 2020. Disminuyendo en diciembre del mismo año a un 3.5% llegando a valores de menos de 1,5% a partir de febrero del 2022.
+Italia llega a tener su pico de letalidad fue de 14,49% a mediados de junio, unas de las más altas a nivel mundial. Disminuyendo en diciembre del mismo año a un 3.5% llegando a valores de menos de 1,5% a partir de febrero del 2022.
 
 4.- Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?
 ![pregunta4](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p4.png "pregunta4")
 
 Aunque en primera instancia estudiando la regresión del Random Forest muestra que la población es una característica de alto impacto la verdad con la matriz de correlación concluye que más sería la densidad poblacional una característica importante descartando la cantidad de población del país con sus respectivas cifras entre sexos.
 
-Podemos decir que la esperanza de vida Life_Expectancy y la densidad poblacional Population_density son las características que tienen un mayor impacto en el índice de letalidad.
+Podemos decir que la esperanza de vida __`Life_Expectancy`__ y la densidad poblacional __`Population_density`__ son las características que tienen un mayor impacto en el índice de letalidad.
 
 ## Conclusiones
 Cabe destacar que durante el 2020 registrando 10000 casos semanales de promedio tuvo una alta letalidad llegando al 12% lo cual es muy peligroso para cualquier sistema de salud que puede colapsar repentinamente, sin embargo llegando al 2022 alcanzando el pico de casos reportados e incluso representando la mayor cantidad de casos acumulados hasta la fecha, tiene una letalidad menor al 2% destacando a pesar del brote masivo de ese año no era muy mortal para la gente.
