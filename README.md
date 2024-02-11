@@ -5,11 +5,8 @@
 > [!NOTE]
 > [![Static Badge](https://img.shields.io/badge/build-Analisis_COVID_19-brightgreen?logo=deepnote&label=Presentación%20ejecutiva%20en%20deepnote.com&color=%23AFEEEE&style=for-the-badge)](https://deepnote.com/@lucel-dasilva/Analisis-COVID-19-56551004-f932-4da5-b5ad-7bb31d32774e)
 
-![PortadaCovid19](https://github.com/luceldasilva/covid_19_italia/blob/main/images/Portada.jpg "PortadaCovid19")
-
 ## Objetivo 👈
 Analizar los datos relacionados con el COVID-19 y presentar insights a través de visualizaciones que respondan a las siguientes preguntas clave de __`Ministero della Salute`__, la entidad gubernamental responsable de la gestión de la salud en Italia
-
 
 ## Conociendo a los datos 🗺️
 
@@ -37,25 +34,25 @@ Del dataframe de __United Nations__
 
 
 ## Resultados 📊
-1.- ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?
-![pregunta1](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p1.png "pregunta1")
+__1.- ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?__
+![pregunta1](https://i.imgur.com/SHDi8rW.png)
 
 Italia se encuentra en la posición 9 de los países con mayores casos de COVID acumulados hasta la fecha, ha experimentado un crecimiento moderado pero constante de los casos de COVID-19 en comparación con otros países. Si bien en el año 2022 hubo un aumento considerable de casos diarios, fue menor que en lo observado en los otros países del top 5
 
-2.- ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en el país a lo largo del tiempo?
-![pregunta2](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p2.png "pregunta2")
+__2.- ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en el país a lo largo del tiempo?__
+![pregunta2](https://i.imgur.com/fy65pFg.png)
 
-![pregunta2detalle](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p2c.png "pregunta2detalle")
+![pregunta2detalle](https://i.imgur.com/D12xqCV.png)
 
 Los datos indican que en el año 2022 es donde se reportan una mayor cantidad de casos. Observándose varios picos principalmente en Enero que éste duró hasta fines de Febrero, luego gradualmente picos menores en las quinceras de Julio y Octubre.
 
-3.- ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?
-![pregunta3](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p3.png "pregunta3")
+__3.- ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?__
+![pregunta3](https://i.imgur.com/w1RIsI0.png)
 
 Italia llega a tener su pico de letalidad fue de 14,49% a mediados de junio, unas de las más altas a nivel mundial. Disminuyendo en diciembre del mismo año a un 3.5% llegando a valores de menos de 1,5% a partir de febrero del 2022.
 
-4.- Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?
-![pregunta4](https://github.com/luceldasilva/covid_19_italia/blob/main/images/p4.png "pregunta4")
+__4.- Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?__
+![pregunta4](https://i.imgur.com/H0O3ZpB.png)
 
 Aunque en primera instancia estudiando la regresión del Random Forest muestra que la población es una característica de alto impacto la verdad con la matriz de correlación concluye que más sería la densidad poblacional una característica importante descartando la cantidad de población del país con sus respectivas cifras entre sexos.
 
