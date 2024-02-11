@@ -59,7 +59,7 @@ Aunque en primera instancia estudiando la regresión del Random Forest muestra q
 Podemos decir que la esperanza de vida __`Life_Expectancy`__ y la densidad poblacional __`Population_density`__ son las características que tienen un mayor impacto en el índice de letalidad.
 
 ## Conclusiones
-Cabe destacar que durante el 2020 registrando 10000 casos semanales de promedio tuvo una alta letalidad llegando al 12% lo cual es muy peligroso para cualquier sistema de salud que puede colapsar repentinamente, sin embargo llegando al 2022 alcanzando el pico de casos reportados e incluso representando la mayor cantidad de casos acumulados hasta la fecha, tiene una letalidad menor al 2% destacando a pesar del brote masivo de ese año no era muy mortal para la gente.
+Cabe destacar que durante el 2020 registrando 10000 casos semanales de promedio tuvo una alta letalidad llegando al 14% lo cual es muy peligroso para cualquier sistema de salud que puede colapsar repentinamente, sin embargo llegando al 2022 alcanzando el pico de casos reportados e incluso representando la mayor cantidad de casos acumulados hasta la fecha, tiene una letalidad menor al 2% destacando a pesar del brote masivo de ese año no era muy mortal para la gente.
 
 Se recomenda estudiar esta relación del año 2022 con la vacunación que relaciones tienen las personas que no se aplicaron las vacunas con las nuevas muertes registradas.
 
