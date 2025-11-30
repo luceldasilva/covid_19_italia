@@ -35,24 +35,24 @@ Del dataframe de __United Nations__
 
 ## Resultados 📊
 __1.- ¿Cómo ha evolucionado el Covid-19 en el país en comparación con el impacto observado a nivel global?__
-![pregunta1](https://i.imgur.com/SHDi8rW.png)
+![pregunta1](https://i.imgur.com/cBVFgMC.png)
 
 Italia se encuentra en la posición 9 de los países con mayores casos de COVID acumulados hasta la fecha, ha experimentado un crecimiento moderado pero constante de los casos de COVID-19 en comparación con otros países. Si bien en el año 2022 hubo un aumento considerable de casos diarios, fue menor que en lo observado en los otros países del top 5
 
 __2.- ¿Cuál ha sido la evolución de los nuevos casos diarios reportados de Covid-19 en el país a lo largo del tiempo?__
-![pregunta2](https://i.imgur.com/fy65pFg.png)
+![pregunta2](https://i.imgur.com/W4n7plT.png)
 
-![pregunta2detalle](https://i.imgur.com/D12xqCV.png)
+![pregunta2detalle](https://i.imgur.com/B0x6oim.png)
 
 Los datos indican que en el año 2022 es donde se reportan una mayor cantidad de casos. Observándose varios picos principalmente en Enero que éste duró hasta fines de Febrero, luego gradualmente picos menores en las quinceras de Julio y Octubre.
 
 __3.- ¿Cuál es la evolución del índice de letalidad del Covid-19 en el país, comparado con los países con los índices históricos más elevados?__
-![pregunta3](https://i.imgur.com/w1RIsI0.png)
+![pregunta3](https://i.imgur.com/EU0dlhR.png)
 
 Italia llega a tener su pico de letalidad fue de 14,49% a mediados de junio, unas de las más altas a nivel mundial. Disminuyendo en diciembre del mismo año a un 3.5% llegando a valores de menos de 1,5% a partir de febrero del 2022.
 
 __4.- Desde una perspectiva demográfica, ¿cuáles son las características que tienen un mayor impacto en el índice de letalidad de un país?__
-![pregunta4](https://i.imgur.com/H0O3ZpB.png)
+![pregunta4](https://i.imgur.com/lbZcbg6.png)
 
 Aunque en primera instancia estudiando la regresión del Random Forest muestra que la población es una característica de alto impacto la verdad con la matriz de correlación concluye que más sería la densidad poblacional una característica importante descartando la cantidad de población del país con sus respectivas cifras entre sexos.
 
